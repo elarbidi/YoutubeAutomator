@@ -1,0 +1,6 @@
+{
+    "title" : "Self-awareness",
+    "keywords":[ "Self-awareness is the ability to consciously recognize and understand your own thoughts, feelings, and behaviors."],
+    "BaseQuery": "explain in details what the meaning of '[]'",
+    "indecator": "[]"
+}
